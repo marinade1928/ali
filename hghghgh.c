@@ -4,9 +4,7 @@ int main() {
     char s1[8][8] ;
     int i, j, x=0;
 
-    for (i=1; i<=7; i++) {
-        for(j=1; j<=8; j++)
-            scanf("%c", &s1[i][j] );
+   
     }
 
     for (i=1; i<=7; i++) {
